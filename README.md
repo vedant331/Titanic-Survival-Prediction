@@ -99,6 +99,7 @@ Implemented:
 | Model | Accuracy |
 |---|---|
 | Random Forest Classifier | 83.14% |
+| AdaBoost Classifier | 82.72% |
 
 ---
 
