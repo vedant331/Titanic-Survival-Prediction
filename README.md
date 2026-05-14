@@ -117,4 +117,4 @@ Implemented:
 ### Clone Repository
 
 ```bash
-git clone <your-github-repo-link>
+gh repo clone vedant331/Titanic-Survival-Prediction
